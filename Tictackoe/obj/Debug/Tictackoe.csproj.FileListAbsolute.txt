@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\MVC\Tictackoe\Tictackoe\bin\Debug\Tictackoe.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\MVC\Tictackoe\Tictackoe\bin\Debug\Tictackoe.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\MVC\Tictackoe\Tictackoe\bin\Debug\Tictackoe.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\MVC\Tictackoe\Tictackoe\obj\Debug\Tictackoe.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\MVC\Tictackoe\Tictackoe\obj\Debug\Tictackoe.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\MVC\Tictackoe\Tictackoe\obj\Debug\Tictackoe.pdb
